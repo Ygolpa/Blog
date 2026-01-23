@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Blog.Application.Contracts/Blog.Application.Contracts.csproj" />
+  <Project Path="Blog.Application/Blog.Application.csproj" />
+  <Project Path="Blog.Domain/Blog.Domain.csproj" />
+  <Project Path="Blog.Infrastructure.Core/Blog.Infrastructure.Core.csproj" Id="14e960c0-4585-45fa-b110-2f7cadd163ce" />
+  <Project Path="Blog.Infrastructure.EFCore/Blog.Infrastructure.EFCore.csproj" />
+  <Project Path="Blog.Presentation.MVCCore/Blog.Presentation.MVCCore.csproj" Id="47c5aca4-1eea-4a95-8dea-f1d481d1ef5b" />
+</Solution>

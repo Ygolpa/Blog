@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\My Applications\\ASP.net Core\\Blog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99F63537-6CEC-6D33-EEB4-85A2E544E2F0}|Blog.Domain\\Blog.Domain.csproj|e:\\my applications\\asp.net core\\blog\\blog.domain\\articlecategoryagg\\exceptions\\duplicaterecordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F63537-6CEC-6D33-EEB4-85A2E544E2F0}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\articlecategoryagg\\exceptions\\duplicaterecordexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F63537-6CEC-6D33-EEB4-85A2E544E2F0}|Blog.Domain\\Blog.Domain.csproj|e:\\my applications\\asp.net core\\blog\\blog.domain\\articlecategoryagg\\services\\articlecategoryvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F63537-6CEC-6D33-EEB4-85A2E544E2F0}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\articlecategoryagg\\services\\articlecategoryvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F63537-6CEC-6D33-EEB4-85A2E544E2F0}|Blog.Domain\\Blog.Domain.csproj|e:\\my applications\\asp.net core\\blog\\blog.domain\\articlecategoryagg\\services\\iarticlecategoryvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F63537-6CEC-6D33-EEB4-85A2E544E2F0}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\articlecategoryagg\\services\\iarticlecategoryvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BD98E3-492B-AFA2-F0D7-A9814ADF8A20}|Blog.Infrastructure.EFCore\\Blog.Infrastructure.EFCore.csproj|e:\\my applications\\asp.net core\\blog\\blog.infrastructure.efcore\\repositories\\articlecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37BD98E3-492B-AFA2-F0D7-A9814ADF8A20}|Blog.Infrastructure.EFCore\\Blog.Infrastructure.EFCore.csproj|solutionrelative:blog.infrastructure.efcore\\repositories\\articlecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E960C0-4585-45FA-B110-2F7CADD163CE}|Blog.Infrastructure.Core\\Blog.Infrastructure.Core.csproj|e:\\my applications\\asp.net core\\blog\\blog.infrastructure.core\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E960C0-4585-45FA-B110-2F7CADD163CE}|Blog.Infrastructure.Core\\Blog.Infrastructure.Core.csproj|solutionrelative:blog.infrastructure.core\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E960C0-4585-45FA-B110-2F7CADD163CE}|Blog.Infrastructure.Core\\Blog.Infrastructure.Core.csproj|e:\\my applications\\asp.net core\\blog\\blog.infrastructure.core\\blog.infrastructure.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14E960C0-4585-45FA-B110-2F7CADD163CE}|Blog.Infrastructure.Core\\Blog.Infrastructure.Core.csproj|solutionrelative:blog.infrastructure.core\\blog.infrastructure.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F63537-6CEC-6D33-EEB4-85A2E544E2F0}|Blog.Domain\\Blog.Domain.csproj|e:\\my applications\\asp.net core\\blog\\blog.domain\\iarticlecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F63537-6CEC-6D33-EEB4-85A2E544E2F0}|Blog.Domain\\Blog.Domain.csproj|solutionrelative:blog.domain\\iarticlecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C5ACA4-1EEA-4A95-8DEA-F1D481D1EF5B}|Blog.Presentation.MVCCore\\Blog.Presentation.MVCCore.csproj|e:\\my applications\\asp.net core\\blog\\blog.presentation.mvccore\\areas\\admin\\pages\\articlecategorymanagement\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47C5ACA4-1EEA-4A95-8DEA-F1D481D1EF5B}|Blog.Presentation.MVCCore\\Blog.Presentation.MVCCore.csproj|solutionrelative:blog.presentation.mvccore\\areas\\admin\\pages\\articlecategorymanagement\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C5ACA4-1EEA-4A95-8DEA-F1D481D1EF5B}|Blog.Presentation.MVCCore\\Blog.Presentation.MVCCore.csproj|e:\\my applications\\asp.net core\\blog\\blog.presentation.mvccore\\areas\\admin\\pages\\articlecategorymanagement\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47C5ACA4-1EEA-4A95-8DEA-F1D481D1EF5B}|Blog.Presentation.MVCCore\\Blog.Presentation.MVCCore.csproj|solutionrelative:blog.presentation.mvccore\\areas\\admin\\pages\\articlecategorymanagement\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322BA3DF-1D88-5668-440E-4C4E738D94E1}|Blog.Application.Contracts\\Blog.Application.Contracts.csproj|e:\\my applications\\asp.net core\\blog\\blog.application.contracts\\articlecategory\\editarticlecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322BA3DF-1D88-5668-440E-4C4E738D94E1}|Blog.Application.Contracts\\Blog.Application.Contracts.csproj|solutionrelative:blog.application.contracts\\articlecategory\\editarticlecategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47C5ACA4-1EEA-4A95-8DEA-F1D481D1EF5B}|Blog.Presentation.MVCCore\\Blog.Presentation.MVCCore.csproj|e:\\my applications\\asp.net core\\blog\\blog.presentation.mvccore\\areas\\admin\\pages\\articlecategorymanagement\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{47C5ACA4-1EEA-4A95-8DEA-F1D481D1EF5B}|Blog.Presentation.MVCCore\\Blog.Presentation.MVCCore.csproj|solutionrelative:blog.presentation.mvccore\\areas\\admin\\pages\\articlecategorymanagement\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1844633164:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f37f5141-198e-4181-9582-7b026ee8f915}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:784214428:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticleCategoryValidatorService.cs",
+              "DocumentMoniker": "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Domain\\ArticleCategoryAgg\\Services\\ArticleCategoryValidatorService.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\ArticleCategoryAgg\\Services\\ArticleCategoryValidatorService.cs",
+              "ToolTip": "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Domain\\ArticleCategoryAgg\\Services\\ArticleCategoryValidatorService.cs",
+              "RelativeToolTip": "Blog.Domain\\ArticleCategoryAgg\\Services\\ArticleCategoryValidatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T22:25:14.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DuplicateRecordException.cs",
+              "DocumentMoniker": "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Domain\\ArticleCategoryAgg\\Exceptions\\DuplicateRecordException.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\ArticleCategoryAgg\\Exceptions\\DuplicateRecordException.cs",
+              "ToolTip": "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Domain\\ArticleCategoryAgg\\Exceptions\\DuplicateRecordException.cs",
+              "RelativeToolTip": "Blog.Domain\\ArticleCategoryAgg\\Exceptions\\DuplicateRecordException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T22:23:04.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IArticleCategoryRepository.cs",
+              "DocumentMoniker": "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Domain\\IArticleCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\IArticleCategoryRepository.cs",
+              "ToolTip": "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Domain\\IArticleCategoryRepository.cs",
+              "RelativeToolTip": "Blog.Domain\\IArticleCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T21:45:39.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IArticleCategoryValidatorService.cs",
+              "DocumentMoniker": "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Domain\\ArticleCategoryAgg\\Services\\IArticleCategoryValidatorService.cs",
+              "RelativeDocumentMoniker": "Blog.Domain\\ArticleCategoryAgg\\Services\\IArticleCategoryValidatorService.cs",
+              "ToolTip": "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Domain\\ArticleCategoryAgg\\Services\\IArticleCategoryValidatorService.cs",
+              "RelativeToolTip": "Blog.Domain\\ArticleCategoryAgg\\Services\\IArticleCategoryValidatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T21:38:34.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticleCategoryRepository.cs",
+              "DocumentMoniker": "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Infrastructure.EFCore\\Repositories\\ArticleCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Blog.Infrastructure.EFCore\\Repositories\\ArticleCategoryRepository.cs",
+              "ToolTip": "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Infrastructure.EFCore\\Repositories\\ArticleCategoryRepository.cs",
+              "RelativeToolTip": "Blog.Infrastructure.EFCore\\Repositories\\ArticleCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T21:46:47.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bootstrapper.cs",
+              "DocumentMoniker": "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Infrastructure.Core\\Bootstrapper.cs",
+              "RelativeDocumentMoniker": "Blog.Infrastructure.Core\\Bootstrapper.cs",
+              "ToolTip": "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Infrastructure.Core\\Bootstrapper.cs",
+              "RelativeToolTip": "Blog.Infrastructure.Core\\Bootstrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T16:05:26.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Blog.Infrastructure.Core.csproj",
+              "DocumentMoniker": "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Infrastructure.Core\\Blog.Infrastructure.Core.csproj",
+              "RelativeDocumentMoniker": "Blog.Infrastructure.Core\\Blog.Infrastructure.Core.csproj",
+              "ToolTip": "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Infrastructure.Core\\Blog.Infrastructure.Core.csproj",
+              "RelativeToolTip": "Blog.Infrastructure.Core\\Blog.Infrastructure.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-23T16:01:19.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Presentation.MVCCore\\Areas\\Admin\\Pages\\ArticleCategoryManagement\\List.cshtml",
+              "RelativeDocumentMoniker": "Blog.Presentation.MVCCore\\Areas\\Admin\\Pages\\ArticleCategoryManagement\\List.cshtml",
+              "ToolTip": "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Presentation.MVCCore\\Areas\\Admin\\Pages\\ArticleCategoryManagement\\List.cshtml",
+              "RelativeToolTip": "Blog.Presentation.MVCCore\\Areas\\Admin\\Pages\\ArticleCategoryManagement\\List.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAIBcwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-21T19:52:36.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "List.cshtml.cs",
+              "DocumentMoniker": "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Presentation.MVCCore\\Areas\\Admin\\Pages\\ArticleCategoryManagement\\List.cshtml.cs",
+              "RelativeDocumentMoniker": "Blog.Presentation.MVCCore\\Areas\\Admin\\Pages\\ArticleCategoryManagement\\List.cshtml.cs",
+              "ToolTip": "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Presentation.MVCCore\\Areas\\Admin\\Pages\\ArticleCategoryManagement\\List.cshtml.cs",
+              "RelativeToolTip": "Blog.Presentation.MVCCore\\Areas\\Admin\\Pages\\ArticleCategoryManagement\\List.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T20:03:12.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Presentation.MVCCore\\Areas\\Admin\\Pages\\ArticleCategoryManagement\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Blog.Presentation.MVCCore\\Areas\\Admin\\Pages\\ArticleCategoryManagement\\Edit.cshtml",
+              "ToolTip": "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Presentation.MVCCore\\Areas\\Admin\\Pages\\ArticleCategoryManagement\\Edit.cshtml",
+              "RelativeToolTip": "Blog.Presentation.MVCCore\\Areas\\Admin\\Pages\\ArticleCategoryManagement\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-22T14:19:20.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EditArticleCategory.cs",
+              "DocumentMoniker": "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Application.Contracts\\ArticleCategory\\EditArticleCategory.cs",
+              "RelativeDocumentMoniker": "Blog.Application.Contracts\\ArticleCategory\\EditArticleCategory.cs",
+              "ToolTip": "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Application.Contracts\\ArticleCategory\\EditArticleCategory.cs",
+              "RelativeToolTip": "Blog.Application.Contracts\\ArticleCategory\\EditArticleCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T16:30:54.154Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

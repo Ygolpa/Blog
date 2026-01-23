@@ -1,0 +1,98 @@
+/* /Areas/Admin/Pages/Shared/_LayoutAdmin.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-xqz7vmdg4b] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-xqz7vmdg4b] {
+  color: #0077cc;
+}
+
+.btn-primary[b-xqz7vmdg4b] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-xqz7vmdg4b], .nav-pills .show > .nav-link[b-xqz7vmdg4b] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-xqz7vmdg4b] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-xqz7vmdg4b] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-xqz7vmdg4b] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-xqz7vmdg4b] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-xqz7vmdg4b] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* /Pages/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-pqux6s1r1u] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-pqux6s1r1u] {
+  color: #0077cc;
+}
+
+.btn-primary[b-pqux6s1r1u] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-pqux6s1r1u], .nav-pills .show > .nav-link[b-pqux6s1r1u] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-pqux6s1r1u] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-pqux6s1r1u] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-pqux6s1r1u] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-pqux6s1r1u] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-pqux6s1r1u] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

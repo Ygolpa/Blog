@@ -1,0 +1,11 @@
+E:\My Applications\ASP.net Core\Blog\Blog.Application.Contracts\bin\Debug\net10.0\Blog.Application.Contracts.deps.json
+E:\My Applications\ASP.net Core\Blog\Blog.Application.Contracts\bin\Debug\net10.0\Blog.Application.Contracts.dll
+E:\My Applications\ASP.net Core\Blog\Blog.Application.Contracts\bin\Debug\net10.0\Blog.Application.Contracts.pdb
+E:\My Applications\ASP.net Core\Blog\Blog.Application.Contracts\obj\Debug\net10.0\Blog.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Applications\ASP.net Core\Blog\Blog.Application.Contracts\obj\Debug\net10.0\Blog.Application.Contracts.AssemblyInfoInputs.cache
+E:\My Applications\ASP.net Core\Blog\Blog.Application.Contracts\obj\Debug\net10.0\Blog.Application.Contracts.AssemblyInfo.cs
+E:\My Applications\ASP.net Core\Blog\Blog.Application.Contracts\obj\Debug\net10.0\Blog.Application.Contracts.csproj.CoreCompileInputs.cache
+E:\My Applications\ASP.net Core\Blog\Blog.Application.Contracts\obj\Debug\net10.0\Blog.Application.Contracts.dll
+E:\My Applications\ASP.net Core\Blog\Blog.Application.Contracts\obj\Debug\net10.0\refint\Blog.Application.Contracts.dll
+E:\My Applications\ASP.net Core\Blog\Blog.Application.Contracts\obj\Debug\net10.0\Blog.Application.Contracts.pdb
+E:\My Applications\ASP.net Core\Blog\Blog.Application.Contracts\obj\Debug\net10.0\ref\Blog.Application.Contracts.dll

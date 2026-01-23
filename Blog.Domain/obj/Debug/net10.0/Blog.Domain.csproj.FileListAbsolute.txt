@@ -1,0 +1,11 @@
+E:\My Applications\ASP.net Core\Blog\Blog.Domain\bin\Debug\net10.0\Blog.Domain.deps.json
+E:\My Applications\ASP.net Core\Blog\Blog.Domain\bin\Debug\net10.0\Blog.Domain.dll
+E:\My Applications\ASP.net Core\Blog\Blog.Domain\bin\Debug\net10.0\Blog.Domain.pdb
+E:\My Applications\ASP.net Core\Blog\Blog.Domain\obj\Debug\net10.0\Blog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Applications\ASP.net Core\Blog\Blog.Domain\obj\Debug\net10.0\Blog.Domain.AssemblyInfoInputs.cache
+E:\My Applications\ASP.net Core\Blog\Blog.Domain\obj\Debug\net10.0\Blog.Domain.AssemblyInfo.cs
+E:\My Applications\ASP.net Core\Blog\Blog.Domain\obj\Debug\net10.0\Blog.Domain.csproj.CoreCompileInputs.cache
+E:\My Applications\ASP.net Core\Blog\Blog.Domain\obj\Debug\net10.0\Blog.Domain.dll
+E:\My Applications\ASP.net Core\Blog\Blog.Domain\obj\Debug\net10.0\refint\Blog.Domain.dll
+E:\My Applications\ASP.net Core\Blog\Blog.Domain\obj\Debug\net10.0\Blog.Domain.pdb
+E:\My Applications\ASP.net Core\Blog\Blog.Domain\obj\Debug\net10.0\ref\Blog.Domain.dll

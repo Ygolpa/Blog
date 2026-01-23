@@ -1,0 +1,17 @@
+E:\My Applications\ASP.net Core\Blog\Blog.Application\bin\Debug\net10.0\Blog.Application.deps.json
+E:\My Applications\ASP.net Core\Blog\Blog.Application\bin\Debug\net10.0\Blog.Application.dll
+E:\My Applications\ASP.net Core\Blog\Blog.Application\bin\Debug\net10.0\Blog.Application.pdb
+E:\My Applications\ASP.net Core\Blog\Blog.Application\bin\Debug\net10.0\Blog.Application.Contracts.dll
+E:\My Applications\ASP.net Core\Blog\Blog.Application\bin\Debug\net10.0\Blog.Application.Contracts.pdb
+E:\My Applications\ASP.net Core\Blog\Blog.Application\obj\Debug\net10.0\Blog.Application.csproj.AssemblyReference.cache
+E:\My Applications\ASP.net Core\Blog\Blog.Application\obj\Debug\net10.0\Blog.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Applications\ASP.net Core\Blog\Blog.Application\obj\Debug\net10.0\Blog.Application.AssemblyInfoInputs.cache
+E:\My Applications\ASP.net Core\Blog\Blog.Application\obj\Debug\net10.0\Blog.Application.AssemblyInfo.cs
+E:\My Applications\ASP.net Core\Blog\Blog.Application\obj\Debug\net10.0\Blog.Application.csproj.CoreCompileInputs.cache
+E:\My Applications\ASP.net Core\Blog\Blog.Application\obj\Debug\net10.0\Blog.App.C7D7B2EA.Up2Date
+E:\My Applications\ASP.net Core\Blog\Blog.Application\obj\Debug\net10.0\Blog.Application.dll
+E:\My Applications\ASP.net Core\Blog\Blog.Application\obj\Debug\net10.0\refint\Blog.Application.dll
+E:\My Applications\ASP.net Core\Blog\Blog.Application\obj\Debug\net10.0\Blog.Application.pdb
+E:\My Applications\ASP.net Core\Blog\Blog.Application\obj\Debug\net10.0\ref\Blog.Application.dll
+E:\My Applications\ASP.net Core\Blog\Blog.Application\bin\Debug\net10.0\Blog.Domain.dll
+E:\My Applications\ASP.net Core\Blog\Blog.Application\bin\Debug\net10.0\Blog.Domain.pdb
