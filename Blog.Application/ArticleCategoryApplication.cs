@@ -1,5 +1,4 @@
 ﻿using Blog.Application.Contracts.ArticleCategory;
-using Blog.Domain;
 using Blog.Domain.ArticleCategoryAgg;
 using Blog.Domain.ArticleCategoryAgg.Services;
 using System.Runtime.CompilerServices;
@@ -37,8 +36,8 @@ namespace Blog.Application
 
         public void Create(CreateArticleCategory command)
         {
-            //var articleCategory = new ArticleCategory(command.Title, _articleCategoryValidatorService);
-            var articleCategory = new ArticleCategory(command.Title);
+            var articleCategory = new ArticleCategory(command.Title, _articleCategoryValidatorService);
+            //var articleCategory = new ArticleCategory(command.Title);
             _articleCategoryRepository.Add(articleCategory);
         }
 

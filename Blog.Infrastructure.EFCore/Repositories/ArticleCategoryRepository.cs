@@ -1,5 +1,4 @@
-﻿using Blog.Domain;
-using Blog.Domain.ArticleCategoryAgg;
+﻿using Blog.Domain.ArticleCategoryAgg;
 
 namespace Blog.Infrastructure.EFCore.Repositories
 {

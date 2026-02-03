@@ -15,3 +15,4 @@ E:\My Applications\ASP.net Core\Blog\Blog.Application\obj\Debug\net10.0\Blog.App
 E:\My Applications\ASP.net Core\Blog\Blog.Application\obj\Debug\net10.0\ref\Blog.Application.dll
 E:\My Applications\ASP.net Core\Blog\Blog.Application\bin\Debug\net10.0\Blog.Domain.dll
 E:\My Applications\ASP.net Core\Blog\Blog.Application\bin\Debug\net10.0\Blog.Domain.pdb
+E:\My Applications\ASP.net Core\Blog\Blog.Application\obj\Debug\net10.0\Blog.Application.sourcelink.json

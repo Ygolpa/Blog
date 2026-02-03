@@ -12,6 +12,9 @@ namespace Blog.Infrastructure.EFCore.Mappings
         public void Configure(EntityTypeBuilder<ArticleCategory> builder)
         {
             builder.HasKey(x => x.Id);
+            builder.HasMany(x => x.Articles)
+                .WithOne(x => x.ArticleCategory)
+                .HasForeignKey(x => x.ArticleCategoryId);
         }
     }
 }

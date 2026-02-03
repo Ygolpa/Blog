@@ -1,6 +1,6 @@
 ﻿using Blog.Application;
 using Blog.Application.Contracts.ArticleCategory;
-using Blog.Domain;
+using Blog.Domain.ArticleCategoryAgg;
 using Blog.Domain.ArticleCategoryAgg.Services;
 using Blog.Infrastructure.EFCore;
 using Blog.Infrastructure.EFCore.Repositories;

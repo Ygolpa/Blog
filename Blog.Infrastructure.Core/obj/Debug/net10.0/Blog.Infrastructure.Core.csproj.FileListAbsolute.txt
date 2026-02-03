@@ -19,3 +19,4 @@ E:\My Applications\ASP.net Core\Blog\Blog.Infrastructure.Core\obj\Debug\net10.0\
 E:\My Applications\ASP.net Core\Blog\Blog.Infrastructure.Core\obj\Debug\net10.0\refint\Blog.Infrastructure.Core.dll
 E:\My Applications\ASP.net Core\Blog\Blog.Infrastructure.Core\obj\Debug\net10.0\Blog.Infrastructure.Core.pdb
 E:\My Applications\ASP.net Core\Blog\Blog.Infrastructure.Core\obj\Debug\net10.0\ref\Blog.Infrastructure.Core.dll
+E:\My Applications\ASP.net Core\Blog\Blog.Infrastructure.Core\obj\Debug\net10.0\Blog.Infrastructure.Core.sourcelink.json

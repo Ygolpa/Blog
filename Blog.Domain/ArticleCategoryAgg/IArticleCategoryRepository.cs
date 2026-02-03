@@ -1,6 +1,4 @@
-﻿using Blog.Domain.ArticleCategoryAgg;
-
-namespace Blog.Domain
+﻿namespace Blog.Domain.ArticleCategoryAgg
 {
     public interface IArticleCategoryRepository
     {

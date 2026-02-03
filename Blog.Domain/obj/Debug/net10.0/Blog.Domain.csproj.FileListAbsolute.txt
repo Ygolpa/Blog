@@ -9,3 +9,4 @@ E:\My Applications\ASP.net Core\Blog\Blog.Domain\obj\Debug\net10.0\Blog.Domain.d
 E:\My Applications\ASP.net Core\Blog\Blog.Domain\obj\Debug\net10.0\refint\Blog.Domain.dll
 E:\My Applications\ASP.net Core\Blog\Blog.Domain\obj\Debug\net10.0\Blog.Domain.pdb
 E:\My Applications\ASP.net Core\Blog\Blog.Domain\obj\Debug\net10.0\ref\Blog.Domain.dll
+E:\My Applications\ASP.net Core\Blog\Blog.Domain\obj\Debug\net10.0\Blog.Domain.sourcelink.json

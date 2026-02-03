@@ -1770,7 +1770,7 @@
         "net10.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "https://mirror-nuget.runflare.com/v3/index.json": {}
       },
       "frameworks": {
         "net10.0": {
