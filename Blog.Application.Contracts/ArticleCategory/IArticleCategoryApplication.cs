@@ -2,7 +2,7 @@
 {
     public interface IArticleCategoryApplication
     {
-        List<ArticleCategoryViewModel> List();
+        List<ArticleCategoryViewModel> GetAllCategories();
         void Create(CreateArticleCategory command);
         void Edit(EditArticleCategory command);
         EditArticleCategory GetById(int id);

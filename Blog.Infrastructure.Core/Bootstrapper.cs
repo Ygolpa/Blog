@@ -1,5 +1,7 @@
 ﻿using Blog.Application;
+using Blog.Application.Contracts.Article;
 using Blog.Application.Contracts.ArticleCategory;
+using Blog.Domain.ArticleAgg;
 using Blog.Domain.ArticleCategoryAgg;
 using Blog.Domain.ArticleCategoryAgg.Services;
 using Blog.Infrastructure.EFCore;
@@ -19,6 +21,12 @@ namespace Blog.Infrastructure.Core
             services.AddTransient<IArticleCategoryApplication, ArticleCategoryApplication>();
             services.AddTransient<IArticleCategoryRepository, ArticleCategoryRepository>();
             services.AddTransient<IArticleCategoryValidatorService, ArticleCategoryValidatorService>();
+        
+            services.AddTransient<IArticleApplication, ArticleApplication>();
+            services.AddTransient<IArticleRepository, ArticleRepository>();
+
+        
+        
         }
     }
 }

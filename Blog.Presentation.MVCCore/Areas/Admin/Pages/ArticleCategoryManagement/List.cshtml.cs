@@ -15,18 +15,18 @@ namespace Blog.Presentation.MVCCore.Areas.Admin.Pages.ArticleCategoryManagement
 
         public void OnGet()
         {
-            ArticleCategories = _articleCategoryAjpplication.List();
+            ArticleCategories = _articleCategoryAjpplication.GetAllCategories();
         }
 
         public RedirectToPageResult OnPostDelete(int id)
         {
             _articleCategoryAjpplication.Delete(id);
-            return RedirectToPage("List");
+            return RedirectToPage("GetAllCategories");
         }
         public RedirectToPageResult OnPostActivate(int id)
         {
             _articleCategoryAjpplication.Activate(id);
-            return RedirectToPage("List");
+            return RedirectToPage("GetAllCategories");
         }
     }
 }

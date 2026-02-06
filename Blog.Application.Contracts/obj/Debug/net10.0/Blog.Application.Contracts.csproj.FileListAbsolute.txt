@@ -9,3 +9,4 @@ E:\My Applications\ASP.net Core\Blog\Blog.Application.Contracts\obj\Debug\net10.
 E:\My Applications\ASP.net Core\Blog\Blog.Application.Contracts\obj\Debug\net10.0\refint\Blog.Application.Contracts.dll
 E:\My Applications\ASP.net Core\Blog\Blog.Application.Contracts\obj\Debug\net10.0\Blog.Application.Contracts.pdb
 E:\My Applications\ASP.net Core\Blog\Blog.Application.Contracts\obj\Debug\net10.0\ref\Blog.Application.Contracts.dll
+E:\My Applications\ASP.net Core\Blog\Blog.Application.Contracts\obj\Debug\net10.0\Blog.Application.Contracts.sourcelink.json

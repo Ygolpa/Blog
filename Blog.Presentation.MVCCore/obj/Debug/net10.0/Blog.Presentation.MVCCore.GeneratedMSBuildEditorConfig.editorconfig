@@ -34,6 +34,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcQXJ0aWNsZUNhdGVnb3J5TWFuYWdlbWVudFxMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/My Applications/ASP.net Core/Blog/Blog.Presentation.MVCCore/Areas/Admin/Pages/ArticleManagement/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcQXJ0aWNsZU1hbmFnZW1lbnRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My Applications/ASP.net Core/Blog/Blog.Presentation.MVCCore/Areas/Admin/Pages/ArticleManagement/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcQXJ0aWNsZU1hbmFnZW1lbnRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/My Applications/ASP.net Core/Blog/Blog.Presentation.MVCCore/Areas/Admin/Pages/ArticleManagement/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcQXJ0aWNsZU1hbmFnZW1lbnRcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/My Applications/ASP.net Core/Blog/Blog.Presentation.MVCCore/Areas/Admin/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cUGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

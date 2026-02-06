@@ -1,0 +1,54 @@
+﻿@page
+@model Blog.Presentation.MVCCore.Areas.Admin.Pages.ArticleManagement.ListModel
+
+<table class="table table-sm table-bordered text-center">
+    <tr>
+        <th>Id</th>
+        <th>Title</th>
+        <th>Article Category</th>
+        <th>Status</th>
+        <th>CreationDate <a asp-page="Create" class="badge badge-warning">Create New Article</a></th>
+        <th>Commands</th>
+    </tr>
+    @foreach (var article in Model.Articles)
+    {
+        <tr>
+            <td>@article.Id</td>
+            <td>@article.Title</td>
+            <td>@article.ArticleCategory</td>
+            <td>
+
+                @if (article.IsDeleted)
+                {
+                    <i class="fa fa-close text-danger"></i>
+                }
+                else
+                {
+                    <i class="fa fa-check text-success"></i>
+                }
+            </td>
+            <td>@article.CreationDate</td>
+            <td>
+                <a href="Edit/@article.Id" class="mr-2 mt-1 badge badge-info float-left"><i class="fa fa-edit"></i></a>
+                @if (article.IsDeleted)
+                {
+                    <form class="float-left" method="post" asp-page-handler="Activate">
+                        <button type="submit" class="border-0 badge badge-success"><i class="fa fa-magic"></i></button>
+                        <input type="hidden" name="id" value="@article.Id" />
+                    </form>
+                }
+                else
+                {
+                    <form class="float-left" method="post" asp-page-handler="Delete">
+                        <button type="submit" class="border-0 badge badge-danger"><i class="fa fa-trash"></i></button>
+                        <input type="hidden" name="id" value="@article.Id" />
+                    </form>
+                }
+                @* <a href="#" class="badge badge-danger"><i class="fa fa-trash"></i></a> *@
+            </td>
+        </tr>
+
+
+
+    }
+</table>

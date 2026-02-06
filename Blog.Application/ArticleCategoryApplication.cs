@@ -16,7 +16,7 @@ namespace Blog.Application
             _articleCategoryValidatorService = articleCategoryValidatorService;
         }
 
-        public List<ArticleCategoryViewModel> List()
+        public List<ArticleCategoryViewModel> GetAllCategories()
         {
             //Dirty code, Later is get cleaned
             var articleCategories = _articleCategoryRepository.GetAll();

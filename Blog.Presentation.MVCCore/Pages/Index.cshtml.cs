@@ -6,7 +6,7 @@ namespace MB.Presentation.MVCCore.Pages
 {
     public class IndexModel : PageModel
     {
-        //public List<ArticleQueryView> Articles { get; set; }
+        //public GetAllCategories<ArticleQueryView> Articles { get; set; }
 
         //private readonly IArticleQuery _articleQuery;
 

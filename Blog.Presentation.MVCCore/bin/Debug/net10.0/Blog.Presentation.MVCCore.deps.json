@@ -678,6 +678,9 @@
         }
       },
       "Blog.Domain/1.0.0": {
+        "dependencies": {
+          "Blog.Application.Contracts": "1.0.0"
+        },
         "runtime": {
           "Blog.Domain.dll": {
             "assemblyVersion": "1.0.0.0",

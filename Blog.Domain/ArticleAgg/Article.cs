@@ -31,5 +31,24 @@ namespace Blog.Domain.ArticleAgg
             IsDeleted = false;
             CreationDate = DateTime.Now;
         }
+
+        public void Edit(string title, string shortDescription, string image, string content, int articleCategoryId)
+        {
+            Title = title;
+            ShortDescription = shortDescription;
+            Image = image;
+            Content = content;
+            ArticleCategoryId = articleCategoryId;
+        }
+
+        public void Delete()
+        {
+            IsDeleted = true;
+        }
+
+        public void Activate()
+        {
+            IsDeleted = false;
+        }
     }
 }

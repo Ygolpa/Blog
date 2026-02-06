@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "Blog.Application.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Blog.Application.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Blog.Application.Contracts.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Blog.Application.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Blog.Application.Contracts/Blog.Application.Contracts.csproj",
+      "msbuildProject": "../Blog.Application.Contracts/Blog.Application.Contracts.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "Blog.Application.Contracts >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Yasser\\.nuget\\packages\\": {},
@@ -37,7 +56,11 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Application.Contracts\\Blog.Application.Contracts.csproj": {
+              "projectPath": "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Application.Contracts\\Blog.Application.Contracts.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -16,3 +16,5 @@ E:\My Applications\ASP.net Core\Blog\Blog.Infrastructure.EFCore\obj\Debug\net10.
 E:\My Applications\ASP.net Core\Blog\Blog.Infrastructure.EFCore\bin\Debug\net10.0\Blog.Infrastructure.EFCore.runtimeconfig.json
 E:\My Applications\ASP.net Core\Blog\Blog.Infrastructure.EFCore\obj\Debug\net10.0\Blog.Infrastructure.EFCore.genruntimeconfig.cache
 E:\My Applications\ASP.net Core\Blog\Blog.Infrastructure.EFCore\obj\Debug\net10.0\Blog.Infrastructure.EFCore.sourcelink.json
+E:\My Applications\ASP.net Core\Blog\Blog.Infrastructure.EFCore\bin\Debug\net10.0\Blog.Application.Contracts.dll
+E:\My Applications\ASP.net Core\Blog\Blog.Infrastructure.EFCore\bin\Debug\net10.0\Blog.Application.Contracts.pdb

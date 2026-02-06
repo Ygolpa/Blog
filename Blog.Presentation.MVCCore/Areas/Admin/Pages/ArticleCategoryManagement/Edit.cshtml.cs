@@ -23,7 +23,7 @@ namespace Blog.Presentation.MVCCore.Areas.Admin.Pages.ArticleCategoryManagement
         public RedirectToPageResult OnPost()
         {
             _articleCategoryApplication.Edit(ArticleCategory);
-            return RedirectToPage("List");
+            return RedirectToPage("GetAllCategories");
         }
     }
 }

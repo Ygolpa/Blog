@@ -10,3 +10,7 @@ E:\My Applications\ASP.net Core\Blog\Blog.Domain\obj\Debug\net10.0\refint\Blog.D
 E:\My Applications\ASP.net Core\Blog\Blog.Domain\obj\Debug\net10.0\Blog.Domain.pdb
 E:\My Applications\ASP.net Core\Blog\Blog.Domain\obj\Debug\net10.0\ref\Blog.Domain.dll
 E:\My Applications\ASP.net Core\Blog\Blog.Domain\obj\Debug\net10.0\Blog.Domain.sourcelink.json
+E:\My Applications\ASP.net Core\Blog\Blog.Domain\bin\Debug\net10.0\Blog.Application.Contracts.dll
+E:\My Applications\ASP.net Core\Blog\Blog.Domain\bin\Debug\net10.0\Blog.Application.Contracts.pdb
+E:\My Applications\ASP.net Core\Blog\Blog.Domain\obj\Debug\net10.0\Blog.Domain.csproj.AssemblyReference.cache
+E:\My Applications\ASP.net Core\Blog\Blog.Domain\obj\Debug\net10.0\Blog.Dom.358847EC.Up2Date

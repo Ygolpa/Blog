@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v10.0": {
       "Blog.Domain/1.0.0": {
+        "dependencies": {
+          "Blog.Application.Contracts": "1.0.0"
+        },
         "runtime": {
           "Blog.Domain.dll": {}
+        }
+      },
+      "Blog.Application.Contracts/1.0.0": {
+        "runtime": {
+          "Blog.Application.Contracts.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "Blog.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Blog.Application.Contracts/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
