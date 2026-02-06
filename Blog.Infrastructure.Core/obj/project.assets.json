@@ -734,6 +734,19 @@
         "runtime": {
           "bin/placeholder/Blog.Infrastructure.EFCore.dll": {}
         }
+      },
+      "Blog.Infrastructure.Query/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "Blog.Infrastructure.EFCore": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Blog.Infrastructure.Query.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Blog.Infrastructure.Query.dll": {}
+        }
       }
     }
   },
@@ -1738,6 +1751,11 @@
       "type": "project",
       "path": "../Blog.Infrastructure.EFCore/Blog.Infrastructure.EFCore.csproj",
       "msbuildProject": "../Blog.Infrastructure.EFCore/Blog.Infrastructure.EFCore.csproj"
+    },
+    "Blog.Infrastructure.Query/1.0.0": {
+      "type": "project",
+      "path": "../Blog.Infrastructure.Query/Blog.Infrastructure.Query.csproj",
+      "msbuildProject": "../Blog.Infrastructure.Query/Blog.Infrastructure.Query.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1745,6 +1763,7 @@
       "Blog.Application >= 1.0.0",
       "Blog.Application.Contracts >= 1.0.0",
       "Blog.Infrastructure.EFCore >= 1.0.0",
+      "Blog.Infrastructure.Query >= 1.0.0",
       "Microsoft.Extensions.DependencyInjection >= 10.0.2"
     ]
   },
@@ -1787,6 +1806,9 @@
             },
             "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Infrastructure.EFCore\\Blog.Infrastructure.EFCore.csproj": {
               "projectPath": "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Infrastructure.EFCore\\Blog.Infrastructure.EFCore.csproj"
+            },
+            "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Infrastructure.Query\\Blog.Infrastructure.Query.csproj": {
+              "projectPath": "E:\\My Applications\\ASP.net Core\\Blog\\Blog.Infrastructure.Query\\Blog.Infrastructure.Query.csproj"
             }
           }
         }

@@ -692,7 +692,8 @@
         "dependencies": {
           "Blog.Application": "1.0.0",
           "Blog.Application.Contracts": "1.0.0",
-          "Blog.Infrastructure.EFCore": "1.0.0"
+          "Blog.Infrastructure.EFCore": "1.0.0",
+          "Blog.Infrastructure.Query": "1.0.0"
         },
         "runtime": {
           "Blog.Infrastructure.Core.dll": {
@@ -709,6 +710,17 @@
         },
         "runtime": {
           "Blog.Infrastructure.EFCore.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Blog.Infrastructure.Query/1.0.0": {
+        "dependencies": {
+          "Blog.Infrastructure.EFCore": "1.0.0"
+        },
+        "runtime": {
+          "Blog.Infrastructure.Query.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -1016,6 +1028,11 @@
       "sha512": ""
     },
     "Blog.Infrastructure.EFCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Blog.Infrastructure.Query/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

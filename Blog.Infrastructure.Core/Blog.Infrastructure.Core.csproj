@@ -14,6 +14,7 @@
     <ProjectReference Include="..\Blog.Application.Contracts\Blog.Application.Contracts.csproj" />
     <ProjectReference Include="..\Blog.Application\Blog.Application.csproj" />
     <ProjectReference Include="..\Blog.Infrastructure.EFCore\Blog.Infrastructure.EFCore.csproj" />
+    <ProjectReference Include="..\Blog.Infrastructure.Query\Blog.Infrastructure.Query.csproj" />
   </ItemGroup>
 
 </Project>

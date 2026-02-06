@@ -6,6 +6,7 @@ using Blog.Domain.ArticleCategoryAgg;
 using Blog.Domain.ArticleCategoryAgg.Services;
 using Blog.Infrastructure.EFCore;
 using Blog.Infrastructure.EFCore.Repositories;
+using Blog.Infrastructure.Query;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -25,7 +26,8 @@ namespace Blog.Infrastructure.Core
             services.AddTransient<IArticleApplication, ArticleApplication>();
             services.AddTransient<IArticleRepository, ArticleRepository>();
 
-        
+
+            services.AddTransient<IArticleQuery, ArticleQuery>();
         
         }
     }

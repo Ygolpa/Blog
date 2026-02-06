@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Blog.Presentation.MVCCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c9f10d822e516d2e72708da8509c655d134e779")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f42574b22cf5c5c00cb4045dc05c956b306d471")]
 [assembly: System.Reflection.AssemblyProductAttribute("Blog.Presentation.MVCCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Blog.Presentation.MVCCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

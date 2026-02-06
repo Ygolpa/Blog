@@ -245,3 +245,5 @@ E:\My Applications\ASP.net Core\Blog\Blog.Presentation.MVCCore\bin\Debug\net10.0
 E:\My Applications\ASP.net Core\Blog\Blog.Presentation.MVCCore\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
 E:\My Applications\ASP.net Core\Blog\Blog.Presentation.MVCCore\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
 E:\My Applications\ASP.net Core\Blog\Blog.Presentation.MVCCore\obj\Debug\net10.0\Blog.Presentation.MVCCore.sourcelink.json
+E:\My Applications\ASP.net Core\Blog\Blog.Presentation.MVCCore\bin\Debug\net10.0\Blog.Infrastructure.Query.dll
+E:\My Applications\ASP.net Core\Blog\Blog.Presentation.MVCCore\bin\Debug\net10.0\Blog.Infrastructure.Query.pdb
