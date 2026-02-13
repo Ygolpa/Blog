@@ -1,9 +1,11 @@
 ﻿using Blog.Application;
 using Blog.Application.Contracts.Article;
 using Blog.Application.Contracts.ArticleCategory;
+using Blog.Application.Contracts.Comment;
 using Blog.Domain.ArticleAgg;
 using Blog.Domain.ArticleCategoryAgg;
 using Blog.Domain.ArticleCategoryAgg.Services;
+using Blog.Domain.CommentsAgg;
 using Blog.Infrastructure.EFCore;
 using Blog.Infrastructure.EFCore.Repositories;
 using Blog.Infrastructure.Query;
@@ -22,13 +24,15 @@ namespace Blog.Infrastructure.Core
             services.AddTransient<IArticleCategoryApplication, ArticleCategoryApplication>();
             services.AddTransient<IArticleCategoryRepository, ArticleCategoryRepository>();
             services.AddTransient<IArticleCategoryValidatorService, ArticleCategoryValidatorService>();
-        
+
             services.AddTransient<IArticleApplication, ArticleApplication>();
             services.AddTransient<IArticleRepository, ArticleRepository>();
 
-
             services.AddTransient<IArticleQuery, ArticleQuery>();
-        
+
+            services.AddTransient<ICommentApplication, CommentApplication>();
+            services.AddTransient<ICommentRepository, CommentRepository>();
+
         }
     }
 }

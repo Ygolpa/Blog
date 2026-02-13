@@ -1,4 +1,5 @@
 ﻿using Blog.Domain.ArticleCategoryAgg;
+using Blog.Domain.CommentsAgg;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -16,6 +17,7 @@ namespace Blog.Domain.ArticleAgg
         public DateTime CreationDate { get; private set; }
         public int ArticleCategoryId { get; private set; }
         public ArticleCategory ArticleCategory { get; private set; }
+        public ICollection<Comment> Comments { get; private set; }
 
         //بخاطر اینکه ای اف کور نیاز به یک کانستراکتور خالی دارد
         //پراتکتد بخاطر اینکه کسی نتواند مستقیما آرتیکل رو نیو بکند
@@ -30,6 +32,7 @@ namespace Blog.Domain.ArticleAgg
             ArticleCategoryId = articleCategoryId;
             IsDeleted = false;
             CreationDate = DateTime.Now;
+            Comments=new List<Comment>();
         }
 
         public void Edit(string title, string shortDescription, string image, string content, int articleCategoryId)

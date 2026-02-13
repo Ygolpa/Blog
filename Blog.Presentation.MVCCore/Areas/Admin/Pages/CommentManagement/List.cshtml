@@ -1,0 +1,57 @@
+﻿@page
+@using static Blog.Domain.CommentsAgg.Comment
+@model Blog.Presentation.MVCCore.Areas.Admin.Pages.CommentManagement.ListModel
+
+<table class="table table-sm table-bordered text-center">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Message</th>
+        <th>Article</th>
+        <th>Status</th>
+        <th>CreationDate</th>
+        <th>Operation</th>
+    </tr>
+    @foreach (var comment in Model.Comments)
+    {
+        <tr>
+            <td>@comment.Id</td>
+            <td>@comment.Name</td>
+            <td>@comment.Email</td>
+            <td>@comment.Message</td>
+            <td>@comment.Article</td>
+            <td>
+                @if (comment.status == Statuses.New)
+                {
+                    <i class="fa fa-eye fa-2x text-info"></i>
+                }
+                @if (comment.status == Statuses.Canceled)
+                {
+                    <i class="fa fa-close fa-2x text-danger"></i>
+                }
+                else if (comment.status == Statuses.Confirmed)
+                {
+                    <i class="fa fa-check fa-2x text-success"></i>
+                }
+            </td>
+
+            <td>@comment.CreationDate</td>
+
+            <td>
+                 @if (comment.status == Statuses.New)
+                {
+                    <form class="float-left" method="post" asp-page-handler="Confirm">
+                        <button type="submit" class="mr-2 border-0 badge badge-success"><i class="fa fa-2x fa-check"></i></button>
+                        <input type="hidden" name="id" value="@comment.Id" />
+                    </form>
+               
+                    <form class="float-left" method="post" asp-page-handler="Cancel">
+                        <button type="submit" class="border-0 badge badge-danger"><i class="fa fa-2x fa-trash"></i></button>
+                        <input type="hidden" name="id" value="@comment.Id" />
+                    </form>
+                } 
+            </td>
+        </tr>
+    }
+</table>
